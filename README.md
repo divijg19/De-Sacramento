@@ -7,7 +7,7 @@ Profile Description
 [![Instagram](https://img.shields.io/badge/Twitter-Follow-red)](https://www.instagram.com/d.vij_597/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio.com/)[WIP]
 
-Welcome to my GitHub profile! I'm passionate about [your interests] and love to create amazing things with code. Currently, I'm focused on [your current goals or projects].
+Welcome to my GitHub profile! I'm passionate about [Software Development to build and integrate solutions to programmable problems by marketing products and services] and love to create amazing things with code. Currently, I'm focused on [Automation with Python and following the path to become a full-stack developer].
 
 ## 🚀 Technologies and Tools
 
@@ -20,14 +20,14 @@ Welcome to my GitHub profile! I'm passionate about [your interests] and love to 
 
 ## 🌱 Currently Learning
 
-- [Current learning focus or goals]
+- Automation using Python
+- Web Development
 
 ## 💼 Work Experience
 
-- [Company/Organization] - [Role/Position]
-- [Company/Organization] - [Role/Position]
+- Currently applying
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects [Work In Progress, yet to be updated]
 
 ### Project 1: [Project Name]
 Brief description and link to the project.
@@ -45,6 +45,6 @@ Brief description and link to the project.
 
 ## 📫 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or [Twitter](https://twitter.com/your-twitter-profile/). You can also visit my [portfolio](https://your-portfolio.com/) to learn more about my work.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divij-ganjoo-18a03124b//) or [Twitter](https://twitter.com/divij_597). You can also visit my [portfolio](Link yet to be updated) to learn more about my work.
 
 Happy coding! ✨
