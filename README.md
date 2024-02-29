@@ -41,10 +41,10 @@ Brief description and link to the project.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=divijg19&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 📫 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divij-ganjoo-18a03124b//) or [Twitter](https://twitter.com/divij_597). You can also visit my [portfolio](Link yet to be updated) to learn more about my work.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divij-ganjoo-18a03124b//) or [Twitter](https://twitter.com/divij_597). You can also visit my [portfolio](https://sites.google.com/view/divij-ganjoo/home) to learn more about my work.
 
 Happy coding! ✨
