@@ -5,7 +5,7 @@ Profile Description
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/divij-ganjoo-18a03124b/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-black)](https://twitter.com/divij_597)
 [![Instagram](https://img.shields.io/badge/Twitter-Follow-red)](https://www.instagram.com/d.vij_597/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio.com/)[WIP]
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://sites.google.com/view/divij-ganjoo/home)[WIP]
 
 Welcome to my GitHub profile! I'm passionate about [Software Development to build and integrate solutions to programmable problems by marketing products and services] and love to create amazing things with code. Currently, I'm focused on [Automation with Python and following the path to become a full-stack developer].
 
