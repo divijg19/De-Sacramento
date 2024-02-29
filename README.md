@@ -2,6 +2,8 @@
 Profile Description
 # Hi there, I'm Divij Ganjoo 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark)](https://github.com/divijg19/github-profile-trophy)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/divij-ganjoo-18a03124b/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-black)](https://twitter.com/divij_597)
 [![Instagram](https://img.shields.io/badge/Twitter-Follow-red)](https://www.instagram.com/d.vij_597/)
