@@ -1,52 +1,199 @@
-# de-sacramento
-Profile Description
-# Hi there, I'm Divij Ganjoo 👋
+# de-sacramento 🚀
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark)](https://github.com/divijg19/github-profile-trophy)
+*Competitive Programming • Dynamic Programming • Data Structures & Algorithms*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/divij-ganjoo-18a03124b/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-black)](https://twitter.com/divij_597)
-[![Instagram](https://img.shields.io/badge/Twitter-Follow-red)](https://www.instagram.com/d.vij_597/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://sites.google.com/view/divij-ganjoo/home)[WIP]
+Welcome to my competitive programming journey! This repository contains my solutions and implementations across various online judges and problem-solving platforms.
 
-Welcome to my GitHub profile! I'm passionate about [Software Development to build and integrate solutions to programmable problems by marketing products and services] and love to create amazing things with code. Currently, I'm focused on [Automation with Python and following the path to become a full-stack developer].
+## 📊 Platform Progress
 
-## 🚀 Technologies and Tools
+| Platform | Problems Solved | Current Rating | Profile |
+|----------|----------------|----------------|---------|
+| **Codeforces** | 0 | Unrated | [Profile Link](#) |
+| **LeetCode** | 0 | 0 | [Profile Link](#) |
+| **GeeksforGeeks** | 0 | 0 | [Profile Link](#) |
+| **HackerRank** | 0 | 0 | [Profile Link](#) |
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-purple?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+## 📁 Repository Structure
 
-## 🌱 Currently Learning
+```
+de-sacramento/
+├── codeforces/
+│   ├── contests/
+│   │   ├── div2-xxx/
+│   │   └── div3-xxx/
+│   ├── problemset/
+│   │   ├── 800/
+│   │   ├── 900/
+│   │   └── ...
+│   └── README.md
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   ├── hard/
+│   ├── daily-challenges/
+│   └── README.md
+├── geeksforgeeks/
+│   ├── easy/
+│   ├── medium/
+│   ├── hard/
+│   └── README.md
+├── hackerrank/
+│   ├── algorithms/
+│   ├── data-structures/
+│   ├── mathematics/
+│   └── README.md
+├── templates/
+│   ├── cpp/
+│   ├── python/
+│   └── java/
+├── notes/
+│   ├── algorithms/
+│   ├── data-structures/
+│   └── dynamic-programming/
+└── README.md
+```
 
-- Automation using Python
-- Web Development
+## 🎯 Current Focus Areas
 
-## 💼 Work Experience
+### Data Structures
+- [ ] Arrays & Strings
+- [ ] Linked Lists
+- [ ] Stacks & Queues
+- [ ] Trees & Binary Search Trees
+- [ ] Heaps & Priority Queues
+- [ ] Hash Tables
+- [ ] Graphs
+- [ ] Tries
+- [ ] Segment Trees
+- [ ] Fenwick Trees
 
-- Currently applying
+### Algorithms
+- [ ] Two Pointers
+- [ ] Sliding Window
+- [ ] Binary Search
+- [ ] Sorting Algorithms
+- [ ] Graph Algorithms (DFS, BFS, Dijkstra, etc.)
+- [ ] Greedy Algorithms
+- [ ] Backtracking
+- [ ] Divide & Conquer
 
-## 🌟 Featured Projects [Work In Progress, yet to be updated]
+### Dynamic Programming
+- [ ] 1D DP
+- [ ] 2D DP
+- [ ] Knapsack Problems
+- [ ] Longest Common Subsequence
+- [ ] Palindrome Problems
+- [ ] Tree DP
+- [ ] Digit DP
+- [ ] Bitmask DP
 
-### Project 1: [Project Name]
-Brief description and link to the project.
+## 🏆 Goals
 
-[![Project 1](https://via.placeholder.com/300)](https://github.com/your-username/project-1)
+### Short Term (3 months)
+- [ ] Solve 100 problems on LeetCode
+- [ ] Reach Specialist on Codeforces (1400+ rating)
+- [ ] Complete 50 GeeksforGeeks problems
+- [ ] Master basic DP patterns
 
-### Project 2: [Project Name]
-Brief description and link to the project.
+### Long Term (1 year)
+- [ ] Solve 500+ problems across all platforms
+- [ ] Reach Expert on Codeforces (1600+ rating)
+- [ ] Complete LeetCode 75 and Blind 75
+- [ ] Participate in weekly contests regularly
 
-[![Project 2](https://via.placeholder.com/300)](https://github.com/your-username/project-2)
+## 🛠️ Languages Used
 
-## 📈 GitHub Stats
+- **C++17/20** - Primary language for competitive programming
+- **Python 3** - For quick prototyping and certain algorithms
+- **Java** - Occasional use for specific problems
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=divijg19&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+## 📝 Solution Format
 
-## 📫 Let's Connect!
+Each solution includes:
+- **Problem statement link**
+- **Approach explanation**
+- **Time & Space complexity**
+- **Key insights or learnings**
+- **Alternative approaches (if any)**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divij-ganjoo-18a03124b//) or [Twitter](https://twitter.com/divij_597). You can also visit my [portfolio](https://sites.google.com/view/divij-ganjoo/home) to learn more about my work.
+Example:
+```cpp
+/*
+Problem: [Problem Name]
+Link: [Problem URL]
+Difficulty: [Easy/Medium/Hard]
+Topic: [Arrays, DP, Graphs, etc.]
 
-Happy coding! ✨
+Approach:
+- Brief explanation of the solution approach
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Key Insights:
+- Important observations or patterns learned
+*/
+```
+
+## 📚 Learning Resources
+
+### Books
+- "Competitive Programming 4" by Steven & Felix Halim
+- "Introduction to Algorithms" by CLRS
+- "Elements of Programming Interviews"
+
+### Online Resources
+- [CP-Algorithms](https://cp-algorithms.com/)
+- [USACO Guide](https://usaco.guide/)
+- [Codeforces Edu](https://codeforces.com/edu/courses)
+
+### YouTube Channels
+- Errichto
+- Colin Galen
+- William Lin
+
+## 🎖️ Contest Participation
+
+### Codeforces
+- Div 2 Rounds: 0 participated
+- Div 3 Rounds: 0 participated
+- Educational Rounds: 0 participated
+
+### LeetCode
+- Weekly Contests: 0 participated
+- Biweekly Contests: 0 participated
+
+## 📈 Progress Tracking
+
+### Monthly Goals
+| Month | Target Problems | Achieved | Platform Focus |
+|-------|----------------|----------|----------------|
+| Current | 50 | 0 | LeetCode Easy/Medium |
+
+### Problem Categories Completed
+- **Array**: 0/100
+- **String**: 0/50  
+- **Tree**: 0/75
+- **Graph**: 0/50
+- **Dynamic Programming**: 0/100
+- **Math**: 0/30
+
+## 🤝 Contributing
+
+This is a personal learning repository, but feel free to:
+- Suggest better solutions or optimizations
+- Point out bugs or improvements
+- Share alternative approaches
+
+## 📬 Connect
+
+- **Codeforces**: [Username](#)
+- **LeetCode**: [Username](#)
+- **LinkedIn**: [Profile](#)
+- **Email**: [Your Email]
+
+---
+
+*"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
+
+**Happy Coding! 🎉**
