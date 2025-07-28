@@ -103,9 +103,9 @@ de-sacramento/
 
 ## 🛠️ Languages Used
 
-- **C++17/20** - Primary language for competitive programming
 - **Python 3** - For quick prototyping and certain algorithms
-- **Java** - Occasional use for specific problems
+- **C++ 17/20** - Primary language for competitive programming
+- **GoLang** - Transitioning into this language
 
 ## 📝 Solution Format
 
