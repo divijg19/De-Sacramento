@@ -9,8 +9,8 @@ Welcome to my competitive programming journey! This repository contains my solut
 | Platform | Problems Solved | Current Rating | Profile |
 |----------|----------------|----------------|---------|
 | **Codeforces** | 0 | Unrated | [Profile Link](#) |
+| **CodeChef** | 0 | 0 | [Profile Link](#) |
 | **LeetCode** | 0 | 0 | [Profile Link](#) |
-| **GeeksforGeeks** | 0 | 0 | [Profile Link](#) |
 | **HackerRank** | 0 | 0 | [Profile Link](#) |
 
 ## 📁 Repository Structure
@@ -32,7 +32,7 @@ de-sacramento/
 │   ├── hard/
 │   ├── daily-challenges/
 │   └── README.md
-├── geeksforgeeks/
+├── codechef/
 │   ├── easy/
 │   ├── medium/
 │   ├── hard/
