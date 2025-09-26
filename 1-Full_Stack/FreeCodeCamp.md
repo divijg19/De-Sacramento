@@ -13,3 +13,7 @@ Moving to Python
 ### 25th Sept '25
 
 Continuing Python- Caesar Cipher
+
+### 26th Sept '25
+
+Python- create_character in full pythonic code
