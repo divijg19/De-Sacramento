@@ -1,8 +1,8 @@
 # de-sacramento 🚀
 
-*Competitive Programming • Dynamic Programming • Data Structures & Algorithms*
+*Dynamic Programming • Data Structures & Algorithms*
 
-Welcome to my competitive programming journey! This repository contains my solutions and implementations across various online judges and problem-solving platforms.
+Welcome to my programming journey! This repository contains my solutions and implementations across various online judges and problem-solving platforms.
 
 ## 📊 Platform Progress
 
@@ -10,8 +10,8 @@ Welcome to my competitive programming journey! This repository contains my solut
 |----------|----------------|----------------|---------|
 | **Codeforces** | 0 | Unrated | [Profile Link](#) |
 | **CodeChef** | 0 | 0 | [Profile Link](#) |
-| **LeetCode** | 0 | 0 | [Profile Link](#) |
-| **HackerRank** | 0 | 0 | [Profile Link](#) |
+| **LeetCode** | 2 | 0 | [Profile Link](#) |
+| **HackerRank** | X | 0 | [Profile Link](#) |
 
 ## 📁 Repository Structure
 
