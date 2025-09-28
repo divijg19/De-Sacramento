@@ -6,12 +6,12 @@ Welcome to my programming journey! This repository contains my solutions and imp
 
 ## 📊 Platform Progress
 
-| Platform | Problems Solved | Current Rating | Profile |
-|----------|----------------|----------------|---------|
-| **Codeforces** | 0 | Unrated | [Profile Link](#) |
-| **CodeChef** | 0 | 0 | [Profile Link](#) |
-| **LeetCode** | 2 | 0 | [Profile Link](#) |
-| **HackerRank** | X | 0 | [Profile Link](#) |
+| Platform | Problems Solved | Current Rating |
+|----------|----------------|----------------|
+| **Codeforces** | 0 | Unrated |
+| **CodeChef** | 0 | 0 |
+| [**LeetCode**](https://leetcode.com/u/divijganjoo2003/) | 3 | 0 |
+| **HackerRank** | X | 0 |
 
 ## 📁 Repository Structure
 
