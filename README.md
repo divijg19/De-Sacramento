@@ -10,8 +10,8 @@ Welcome to my programming journey! This repository contains my solutions and imp
 |----------|----------------|----------------|
 | **Codeforces** | 0 | Unrated |
 | **CodeChef** | 0 | 0 |
-| [**LeetCode**](https://leetcode.com/u/divijganjoo2003/) | 3 | 0 |
-| **HackerRank** | X | 0 |
+| [**LeetCode**](https://leetcode.com/u/divijganjoo2003/) | 4 | 0 |
+| **HackerRank** | 137 | 0 |
 
 ## 📁 Repository Structure
 
@@ -152,45 +152,12 @@ Key Insights:
 - Colin Galen
 - William Lin
 
-## 🎖️ Contest Participation
-
-### Codeforces
-- Div 2 Rounds: 0 participated
-- Div 3 Rounds: 0 participated
-- Educational Rounds: 0 participated
-
-### LeetCode
-- Weekly Contests: 0 participated
-- Biweekly Contests: 0 participated
-
-## 📈 Progress Tracking
-
-### Monthly Goals
-| Month | Target Problems | Achieved | Platform Focus |
-|-------|----------------|----------|----------------|
-| Current | 50 | 0 | LeetCode Easy/Medium |
-
-### Problem Categories Completed
-- **Array**: 0/100
-- **String**: 0/50  
-- **Tree**: 0/75
-- **Graph**: 0/50
-- **Dynamic Programming**: 0/100
-- **Math**: 0/30
-
 ## 🤝 Contributing
 
 This is a personal learning repository, but feel free to:
 - Suggest better solutions or optimizations
 - Point out bugs or improvements
 - Share alternative approaches
-
-## 📬 Connect
-
-- **Codeforces**: [Username](#)
-- **LeetCode**: [Username](#)
-- **LinkedIn**: [Profile](#)
-- **Email**: [Your Email]
 
 ---
 
