@@ -9,3 +9,13 @@
 ### 28th Sept '25
 
 121. Best time to buy and sell
+
+### 5th Oct '25
+
+Have practiced these 4 every day due to being too packed to study new problems:
+- Contains Duplicate
+- Best Time to Buy and Sell Stock
+- Valid Palindrome
+- Two Sum
+
+Hope to start my first Medium difficulty problem soon
