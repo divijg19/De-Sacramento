@@ -19,3 +19,7 @@ Have practiced these 4 every day due to being too packed to study new problems:
 - Two Sum
 
 Hope to start my first Medium difficulty problem soon
+
+### 6th Oct '25
+
+Watched videos
