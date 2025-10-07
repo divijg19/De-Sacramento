@@ -23,3 +23,8 @@ Hope to start my first Medium difficulty problem soon
 ### 6th Oct '25
 
 Watched videos
+
+### 7th Sept '25
+
+Practiced
+
