@@ -28,3 +28,6 @@ Watched videos
 
 Practiced
 
+### 8th Sept '25
+
+Practiced; Studied TS and worked on Lys
