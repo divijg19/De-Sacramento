@@ -31,3 +31,11 @@ Practiced
 ### 8th Sept '25
 
 Practiced; Studied TS and worked on Lys
+
+### 9th Sept '25
+
+Worked on Lys, doing DSA again
+
+### 10th Sept '25
+
+First medium problem
