@@ -39,3 +39,11 @@ Worked on Lys, doing DSA again
 ### 10th Sept '25
 
 First medium problem
+
+### 11th Sept '25
+
+238. Product of Array except Self
+
+### 12th Sept '25
+
+#9 Palindrome Number
