@@ -24,26 +24,33 @@ Hope to start my first Medium difficulty problem soon
 
 Watched videos
 
-### 7th Sept '25
+### 7th Oct '25
 
 Practiced
 
-### 8th Sept '25
+### 8th Oct '25
 
 Practiced; Studied TS and worked on Lys
 
-### 9th Sept '25
+### 9th Oct '25
 
 Worked on Lys, doing DSA again
 
-### 10th Sept '25
+### 10th Oct '25
 
 First medium problem
 
-### 11th Sept '25
+### 11th Oct '25
 
 238. Product of Array except Self
 
-### 12th Sept '25
+### 12th Oct '25
 
 #9 Palindrome Number
+
+### 17th Oct '25
+
+#2598 Smallest missing non-negative integer after operations
+#3350 Adjacent increasing subarrays detection 2
+
+One failed hard submission
