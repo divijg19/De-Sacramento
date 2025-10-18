@@ -17,39 +17,19 @@ Welcome to my programming journey! This repository contains my solutions and imp
 
 ```
 de-sacramento/
-├── codeforces/
-│   ├── contests/
-│   │   ├── div2-xxx/
-│   │   └── div3-xxx/
-│   ├── problemset/
-│   │   ├── 800/
-│   │   ├── 900/
-│   │   └── ...
-│   └── README.md
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   ├── hard/
-│   ├── daily-challenges/
-│   └── README.md
-├── codechef/
-│   ├── easy/
-│   ├── medium/
-│   ├── hard/
-│   └── README.md
-├── hackerrank/
+├── python/
+| ├── DSA/
+|  ├── leetcode/
+│  │ └── README.md
+|  ├── codechef/
+│  │ └── README.md
+│  └── hackerrank/
 │   ├── algorithms/
 │   ├── data-structures/
 │   ├── mathematics/
-│   └── README.md
-├── templates/
-│   ├── cpp/
-│   ├── python/
-│   └── java/
-├── notes/
-│   ├── algorithms/
-│   ├── data-structures/
-│   └── dynamic-programming/
+│   └── README.md 
+├── cpp/
+├── go/
 └── README.md
 ```
 
