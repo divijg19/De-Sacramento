@@ -9,9 +9,9 @@ Welcome to my programming journey! This repository contains my solutions and imp
 | Platform | Problems Solved | Current Rating |
 |----------|----------------|----------------|
 | **Codeforces** | 0 | Unrated |
-| **CodeChef** | 0 | 0 |
-| [**LeetCode**](https://leetcode.com/u/divijganjoo2003/) | 4 | 0 |
-| **HackerRank** | 137 | 0 |
+| **CodeChef** | 23 | 0 |
+| [**LeetCode**](https://leetcode.com/u/divijganjoo2003/) | 9 | 0 |
+| **HackerRank** | 149 | 0 |
 
 ## 📁 Repository Structure
 
