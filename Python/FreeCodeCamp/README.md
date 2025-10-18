@@ -12,4 +12,4 @@ Python- Build a Number Pattern Generator
 
 ### 13th Oct '25
 
-Python done all the way till Error handling.
+Python done all the way till Error handling (complete at the moment)
