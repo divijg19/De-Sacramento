@@ -58,3 +58,6 @@ One failed hard submission
 ### 18th Oct '25
 
 Practiced old questions, didn't get to study much today
+
+### 23rd Oct '25
+#3350. Adjacent Increasing Subarrays Detection II
