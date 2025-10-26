@@ -64,3 +64,7 @@ Practiced old questions, didn't get to study much today
 
 ### 24th Oct '25
 Studied System Design
+
+### 26th Oct '25
+Studied System Design & did Two-Sum again
+
