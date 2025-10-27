@@ -68,3 +68,5 @@ Studied System Design
 ### 26th Oct '25
 Studied System Design & did Two-Sum again
 
+### 27th Oct '25
+Tried a few submissions to understand my own progression
