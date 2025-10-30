@@ -62,3 +62,6 @@ Tried a few submissions to understand my own progression
 
 ### 29th Oct '25
 Continued for optimal #3354. Make Array Elements Equal to Zero
+
+### 30th Oct '25
+Practiced old problems
