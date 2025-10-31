@@ -65,3 +65,6 @@ Continued for optimal #3354. Make Array Elements Equal to Zero
 
 ### 30th Oct '25
 Practiced old problems
+
+### 31st Oct '25
+Worked on Nargis, Halloween
