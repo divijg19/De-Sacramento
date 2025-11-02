@@ -68,3 +68,6 @@ Practiced old problems
 
 ### 31st Oct '25
 Worked on Nargis, Halloween
+
+### 2nd Nov '25
+Travelling
