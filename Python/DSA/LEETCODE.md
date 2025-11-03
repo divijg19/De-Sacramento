@@ -71,3 +71,6 @@ Worked on Nargis, Halloween
 
 ### 2nd Nov '25
 Travelling
+
+### 3rd Nov '25
+Resting
