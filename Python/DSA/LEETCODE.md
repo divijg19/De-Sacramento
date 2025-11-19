@@ -77,3 +77,6 @@ Resting
 
 ### 13th Nov '25
 Resting
+
+### 19th Nov '25
+Last 10 days of Nov- resume and leetcode focused.
