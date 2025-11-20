@@ -80,3 +80,6 @@ Resting
 
 ### 19th Nov '25
 Last 10 days of Nov- resume and leetcode focused.
+
+### 20th Nov '25
+Worked on System design recap
