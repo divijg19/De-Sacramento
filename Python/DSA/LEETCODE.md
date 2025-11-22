@@ -83,3 +83,6 @@ Last 10 days of Nov- resume and leetcode focused.
 
 ### 20th Nov '25
 Worked on System design recap
+
+## 22nd Nov '25
+Fixing Zinnia
