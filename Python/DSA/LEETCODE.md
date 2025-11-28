@@ -92,3 +92,6 @@ Container with Most Water
 
 ### 27th Nov '25
 Travelling
+
+### 28th Nov '25
+Iterating over Nargis and Zinnia
