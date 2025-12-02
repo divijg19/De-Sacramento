@@ -98,3 +98,8 @@ Iterating over Nargis and Zinnia
 
 ### 29th Nov '25
 Continuing
+
+### 2nd Dec '25
+Zinnia
+Nargis
+2 DSA Problems tomorrow
