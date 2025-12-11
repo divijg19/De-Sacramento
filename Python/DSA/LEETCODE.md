@@ -111,3 +111,7 @@ Forge
 SentiOS
 
 Need to do 3 questions next 2 days
+
+### 11th Dec '25
+Feel ashamed but accepting of my flaws.
+Will try to continue DSA tomorrow
