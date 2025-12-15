@@ -116,7 +116,7 @@ Need to do 3 questions next 2 days
 Feel ashamed but accepting of my flaws.
 Will try to continue DSA tomorrow
 
-15th Dec '25 (needs commit)
+### 15th Dec '25
 trip
 
 ### 16th Dec '25
