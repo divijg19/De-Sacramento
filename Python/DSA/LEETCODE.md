@@ -88,7 +88,7 @@ Worked on System design recap
 Fixing Zinnia
 
 ### 26th Nov '25
-Container with Most Water
+#11. Container with Most Water
 
 ### 27th Nov '25
 Travelling
@@ -133,3 +133,10 @@ trip
 
 ### 20th Dec '25
 trip
+
+### 21st Dec '25
+#1295. Find Numbers with Even Number of Digits
+#1672. Richest Customer Wealth
+#1431. Kids With the Greatest Number of Candies
+#1470. Shuffle the Array
+#1480. Running Sum of 1d Array
