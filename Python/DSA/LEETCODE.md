@@ -140,3 +140,7 @@ trip
 #1431. Kids With the Greatest Number of Candies
 #1470. Shuffle the Array
 #1480. Running Sum of 1d Array
+
+### 22nd Dec '25
+#344. Reverse String
+#977. Squares of a Sorted Array
