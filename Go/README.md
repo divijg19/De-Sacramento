@@ -14,3 +14,4 @@ GoTH + Flutter + rig
 - TailwindCSS
 
 Aspiring to learn zig someday
+And implement Glyph thoroughly
