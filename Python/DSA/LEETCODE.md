@@ -144,3 +144,9 @@ trip
 ### 22nd Dec '25
 #344. Reverse String
 #977. Squares of a Sorted Array
+
+### 23rd Dec '25
+#577. Reverse Words in a String III
+#283. Move Zeroes
+#125. Valid Palindrome
+#26. Remove Duplicates from Sorted Array
