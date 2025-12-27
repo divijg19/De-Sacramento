@@ -169,3 +169,6 @@ trip
 #1832. Check if the Sentence Is Pangram
 #1748. Sum of Unique Elements
 #2367. Number of Arithmetic Triplets
+#1431. Kids With the Greatest Number of Candies
+#1512. Number of Good Pairs
+#1464. Maximum Product of Two Elements in an Array
