@@ -149,3 +149,23 @@ trip
 #577. Reverse Words in a String III
 #283. Move Zeroes
 #125. Valid Palindrome
+
+### 25th Dec '25
+#125. Valid Palindrome
+
+### 26th Dec '25
+#1920. Build Array from Permutation
+#1486. XOR Operation in an Array
+#2235. Add Two Integers
+#412. Fizz Buzz
+#1732. Find the Highest Altitude
+#2011. Final Value of Variable After Performing Operations
+#1108. Defanging an IP Address
+#1844. Replace All Digits with Characters
+#1309. Decrypt String from Alphabet to Integer Mapping
+
+### 27th Dec '25
+#1652. Defuse the Bomb
+#1832. Check if the Sentence Is Pangram
+#1748. Sum of Unique Elements
+#2367. Number of Arithmetic Triplets
