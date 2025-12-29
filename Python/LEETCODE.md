@@ -172,3 +172,8 @@ trip
 #1431. Kids With the Greatest Number of Candies
 #1512. Number of Good Pairs
 #1464. Maximum Product of Two Elements in an Array
+
+### 28th Dev '25
+#1464. Maximum Product of Two Elements in an Array
+#1295. Find Numbers with Even Number of Digits
+#1221. Split a String in Balanced Strings
