@@ -177,3 +177,7 @@ trip
 #1464. Maximum Product of Two Elements in an Array
 #1295. Find Numbers with Even Number of Digits
 #1221. Split a String in Balanced Strings
+
+### 29th Dec '25
+#1662. Check If Two String Arrays are Equivalent
+#1816. Truncate Sentence
