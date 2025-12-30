@@ -181,3 +181,6 @@ trip
 ### 29th Dec '25
 #1662. Check If Two String Arrays are Equivalent
 #1816. Truncate Sentence
+
+### 30th Dec '25
+exam
