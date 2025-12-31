@@ -184,3 +184,8 @@ trip
 
 ### 30th Dec '25
 exam
+
+### 31st Dec '25
+exam
+#1859. Sorting the Sentence
+#1207. Unique Number of Occurrences
