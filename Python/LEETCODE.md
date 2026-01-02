@@ -189,3 +189,10 @@ exam
 exam
 #1859. Sorting the Sentence
 #1207. Unique Number of Occurrences
+
+### 1st Jan '25
+migrated to linux
+random question
+
+### 2nd Jan '25
+#1. Two Sum (hashmap)
