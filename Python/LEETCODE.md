@@ -258,6 +258,9 @@ Grimoire, Lys, Zinnia
 ### 4th Jan '26
 
 #1207. Unique Number of Occurrences
+#1694. Reformat Phone Number
+#2068. Check Whether Two Strings are Almost Equivalent
+#2744. Find Maximum Number of String Pairs
 
 ### 5th Jan '26
 
