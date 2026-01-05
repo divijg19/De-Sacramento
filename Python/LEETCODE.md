@@ -250,6 +250,15 @@ random question
 
 #1. Two Sum (hashmap)
 
+### 3rd Jan '25
+
+Resting
+Grimoire, Lys, Zinnia
+
+### 4th Jan '25
+
+#1207. Unique Number of Occurrences
+
 ### 5th Jan '25
 
 #1929. Concatenation of Array
