@@ -265,3 +265,9 @@ Grimoire, Lys, Zinnia
 #2114. Maximum Number of Words Found in Sentences
 #709. To Lower Case
 #2418. Sort the People
+
+### 6th Jan '25
+
+#2574. Left and Right Sum Differences
+#1913. Maximum Product Difference Between Two Pairs
+#1365. How Many Numbers Are Smaller Than the Current Number
