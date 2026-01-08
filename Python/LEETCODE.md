@@ -271,3 +271,7 @@ Grimoire, Lys, Zinnia
 #2574. Left and Right Sum Differences
 #1913. Maximum Product Difference Between Two Pairs
 #1365. How Many Numbers Are Smaller Than the Current Number
+
+### 8th Jan '25
+
+#2798. Number of Employees Who Met the Target
