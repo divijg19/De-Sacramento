@@ -283,3 +283,4 @@ Grimoire, Lys, Zinnia
 #2108. Find First Palindrome in a String Array
 #2469. Convert the Temperature
 #2769. Find the Maximum Achievable Number
+#1450. Number of Students Doing Homework at a Given Time
