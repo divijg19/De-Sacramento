@@ -277,3 +277,9 @@ Grimoire, Lys, Zinnia
 #2798. Number of Employees Who Met the Target
 #2185. Counting Words With a Given Prefix
 #2129. Capitalize the Title
+
+### 9th Jan '25
+
+#2108. Find First Palindrome in a String Array
+#2469. Convert the Temperature
+#2769. Find the Maximum Achievable Number
