@@ -284,3 +284,10 @@ Grimoire, Lys, Zinnia
 #2469. Convert the Temperature
 #2769. Find the Maximum Achievable Number
 #1450. Number of Students Doing Homework at a Given Time
+
+### 11th Jan '25
+
+#905. Sort Array By Parity
+#26. Remove Duplicates from Sorted Array
+#27. Remove Element
+#917. Reverse Only Letters
