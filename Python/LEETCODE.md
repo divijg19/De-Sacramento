@@ -291,3 +291,6 @@ Grimoire, Lys, Zinnia
 #26. Remove Duplicates from Sorted Array
 #27. Remove Element
 #917. Reverse Only Letters
+#832. Flipping an Image
+#922. Sort Array By Parity II
+#1089. Duplicate Zeros
