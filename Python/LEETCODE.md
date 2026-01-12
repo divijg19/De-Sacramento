@@ -294,3 +294,8 @@ Grimoire, Lys, Zinnia
 #832. Flipping an Image
 #922. Sort Array By Parity II
 #1089. Duplicate Zeros
+
+### 12th Jan '25
+
+#1768. Merge Strings Alternately
+#345. Reverse Vowels of a String
