@@ -299,3 +299,4 @@ Grimoire, Lys, Zinnia
 
 #1768. Merge Strings Alternately
 #345. Reverse Vowels of a String
+#844. Backspace String Compare
