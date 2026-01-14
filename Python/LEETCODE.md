@@ -304,3 +304,9 @@ Grimoire, Lys, Zinnia
 ### 13th Jan '25
 
 travelling
+
+### 14th Jan '25
+
+#2859. Sum of Values at Indices With K Set Bits
+#2652. Sum Multiples
+#1588. Sum of All Odd Length Subarrays
