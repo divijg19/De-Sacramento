@@ -241,51 +241,51 @@ exam
 #1859. Sorting the Sentence
 #1207. Unique Number of Occurrences
 
-### 1st Jan '25
+### 1st Jan '26
 
 migrated to linux
 random question
 
-### 2nd Jan '25
+### 2nd Jan '26
 
 #1. Two Sum (hashmap)
 
-### 3rd Jan '25
+### 3rd Jan '26
 
 Resting
 Grimoire, Lys, Zinnia
 
-### 4th Jan '25
+### 4th Jan '26
 
 #1207. Unique Number of Occurrences
 
-### 5th Jan '25
+### 5th Jan '26
 
 #1929. Concatenation of Array
 #2114. Maximum Number of Words Found in Sentences
 #709. To Lower Case
 #2418. Sort the People
 
-### 6th Jan '25
+### 6th Jan '26
 
 #2574. Left and Right Sum Differences
 #1913. Maximum Product Difference Between Two Pairs
 #1365. How Many Numbers Are Smaller Than the Current Number
 
-### 8th Jan '25
+### 8th Jan '26
 
 #2798. Number of Employees Who Met the Target
 #2185. Counting Words With a Given Prefix
 #2129. Capitalize the Title
 
-### 9th Jan '25
+### 9th Jan '26
 
 #2108. Find First Palindrome in a String Array
 #2469. Convert the Temperature
 #2769. Find the Maximum Achievable Number
 #1450. Number of Students Doing Homework at a Given Time
 
-### 11th Jan '25
+### 11th Jan '26
 
 #905. Sort Array By Parity
 #26. Remove Duplicates from Sorted Array
@@ -295,18 +295,22 @@ Grimoire, Lys, Zinnia
 #922. Sort Array By Parity II
 #1089. Duplicate Zeros
 
-### 12th Jan '25
+### 12th Jan '26
 
 #1768. Merge Strings Alternately
 #345. Reverse Vowels of a String
 #844. Backspace String Compare
 
-### 13th Jan '25
+### 13th Jan '26
 
 travelling
 
-### 14th Jan '25
+### 14th Jan '26
 
 #2859. Sum of Values at Indices With K Set Bits
 #2652. Sum Multiples
 #1588. Sum of All Odd Length Subarrays
+
+### 15th Jan '26
+
+#1967. Number of Strings That Appear as Substrings in Word
