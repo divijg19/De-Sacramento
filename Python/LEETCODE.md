@@ -314,3 +314,7 @@ travelling
 ### 15th Jan '26
 
 #1967. Number of Strings That Appear as Substrings in Word
+
+### 16th Jan '26
+
+resting
