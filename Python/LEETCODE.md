@@ -318,3 +318,8 @@ travelling
 ### 16th Jan '26
 
 resting
+
+### 17th Jan '26
+
+#2500. Delete Greatest Value in Each Row
+#2176. Count Equal and Divisible Pairs in an Array
