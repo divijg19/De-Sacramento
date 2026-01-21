@@ -323,3 +323,9 @@ resting
 
 #2500. Delete Greatest Value in Each Row
 #2176. Count Equal and Divisible Pairs in an Array
+
+### 21st Jan '26
+#2553. Seperate the Digits in an Array
+#2778. Sum of Squares of Special Elements
+#2716. Minimize String Length
+#49. Group Anagrams
