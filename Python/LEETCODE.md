@@ -325,7 +325,14 @@ resting
 #2176. Count Equal and Divisible Pairs in an Array
 
 ### 21st Jan '26
+
 #2553. Seperate the Digits in an Array
 #2778. Sum of Squares of Special Elements
 #2716. Minimize String Length
 #49. Group Anagrams
+
+### 22nd Jan '26
+
+#2951. Find the Peaks
+#2942. Find Words Containing Character
+#560. Subarray Sum Equals K
