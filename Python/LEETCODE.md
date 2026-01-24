@@ -340,3 +340,8 @@ resting
 ### 23rd Jan '26
 
 resting
+
+### 24th Jan '26
+
+#1704. Determine if String Halves Are Alike
+#15. 3Sum
