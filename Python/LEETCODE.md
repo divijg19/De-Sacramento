@@ -345,3 +345,8 @@ resting
 
 #1704. Determine if String Halves Are Alike
 #15. 3Sum
+
+### 26th Jan '26
+#3. Longest Substring Without Repeating Characters
+#2315. Count Asterisks
+#2586. Count the Number of Vowel Strings in Range
