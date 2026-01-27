@@ -350,3 +350,7 @@ resting
 #3. Longest Substring Without Repeating Characters
 #2315. Count Asterisks
 #2586. Count the Number of Vowel Strings in Range
+
+### 27th Jan '26
+#2. Add Two Numbers
+#13. Roman to Integer
