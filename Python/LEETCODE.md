@@ -354,3 +354,8 @@ resting
 ### 27th Jan '26
 #2. Add Two Numbers
 #13. Roman to Integer
+
+### 3rd Feb '26
+#20. Valid Parentheses
+#28. Find the Index of the First Occurrence in a String
+#35. Search Insert Position
