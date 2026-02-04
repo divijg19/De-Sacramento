@@ -359,3 +359,8 @@ resting
 #20. Valid Parentheses
 #28. Find the Index of the First Occurrence in a String
 #35. Search Insert Position
+
+### 4th Feb '26
+#58. Length of Last Word
+#66. Plus One
+#5. Longest Palindromic Substring
