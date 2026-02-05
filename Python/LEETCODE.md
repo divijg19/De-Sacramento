@@ -364,3 +364,9 @@ resting
 #58. Length of Last Word
 #66. Plus One
 #5. Longest Palindromic Substring
+
+### 5th Feb '26
+#496. Next Greater Element I
+#1299. Replace Elements with Greatest Element on Right Side
+#2399. Check Distances Between Same Letters
+#1716. Calculate Money in Leetcode Bank
