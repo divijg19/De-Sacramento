@@ -370,3 +370,9 @@ resting
 #1299. Replace Elements with Greatest Element on Right Side
 #2399. Check Distances Between Same Letters
 #1716. Calculate Money in Leetcode Bank
+
+### 10th Feb '26
+#2733. Neither Minimum nor Maximum
+#2335. Minimum Amount of Time to Fill Cups
+#1572. Matrix Diagonal Sum
+#1636. Sort Array by Increasing Frequency
