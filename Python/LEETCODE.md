@@ -376,3 +376,9 @@ resting
 #2335. Minimum Amount of Time to Fill Cups
 #1572. Matrix Diagonal Sum
 #1636. Sort Array by Increasing Frequency
+
+### 11th Feb '26
+#12. Integer to Roman
+#22. Generate Parentheses
+#1603. Design Parking System
+#2696. Minimum String Length After Removing Substrings
