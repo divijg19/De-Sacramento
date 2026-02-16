@@ -382,3 +382,7 @@ resting
 #22. Generate Parentheses
 #1603. Design Parking System
 #2696. Minimum String Length After Removing Substrings
+
+### 16th Feb '26
+#202. Happy Number
+#1897. Redistribute Characters to Make All Strings Equal
