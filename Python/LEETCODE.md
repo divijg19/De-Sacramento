@@ -386,3 +386,7 @@ resting
 ### 16th Feb '26
 #202. Happy Number
 #1897. Redistribute Characters to Make All Strings Equal
+
+### 20th Feb '26
+#3745. Maximize expression of three numbers
+#944. Delete Columns to Make Sorted
