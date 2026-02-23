@@ -390,3 +390,7 @@ resting
 ### 20th Feb '26
 #3745. Maximize expression of three numbers
 #944. Delete Columns to Make Sorted
+
+### 23rd Feb '26
+#2558. Take Gifts From the Richest Pile
+#3200. Maximum Height of Triangle
