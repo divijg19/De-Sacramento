@@ -394,3 +394,6 @@ resting
 ### 23rd Feb '26
 #2558. Take Gifts From the Richest Pile
 #3200. Maximum Height of Triangle
+
+### 24th Feb '26
+#2283. Check if Number Has Equal Digit Count and Digit Value
