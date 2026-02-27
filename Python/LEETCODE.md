@@ -397,3 +397,6 @@ resting
 
 ### 24th Feb '26
 #2283. Check if Number Has Equal Digit Count and Digit Value
+
+### 27th Feb '26
+#485. Max Consecutive Ones
