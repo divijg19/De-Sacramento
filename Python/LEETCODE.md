@@ -400,3 +400,6 @@ resting
 
 ### 27th Feb '26
 #485. Max Consecutive Ones
+
+### 2nd Mar '26
+#387. First Unique Character in a String
