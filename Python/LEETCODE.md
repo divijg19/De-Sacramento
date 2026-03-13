@@ -406,3 +406,9 @@ resting
 
 ### 2nd Mar '26
 #387. First Unique Character in a String
+
+### 13th Mar '26
+Backtracked-
+#1694. Reformat Phone Number
+#2068. Check Whether Two Strings are Almost Equivalent
+#2744. Find Maximum Number of String Pairs
