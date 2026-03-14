@@ -412,3 +412,8 @@ Backtracked-
 #1694. Reformat Phone Number
 #2068. Check Whether Two Strings are Almost Equivalent
 #2744. Find Maximum Number of String Pairs
+
+### 14th Mar '26
+#908. Smallest Range I
+#242. Valid Anagram
+#3120. Count the Number of Special Characters
