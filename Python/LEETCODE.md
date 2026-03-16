@@ -419,6 +419,10 @@ Backtracked-
 #3120. Count the Number of Special Characters
 
 ### 15th Mar '26
- #1078. Occurrences After Bigram
- #3003. Maximize the Number of Partitions After Operations
- #3392. Count Subarrays of Length Three with a Condition
+#1078. Occurrences After Bigram
+#3003. Maximize the Number of Partitions After Operations
+#3392. Count Subarrays of Length Three with a Condition
+
+### 16th Mar '26
+#2869. Minimum Operations to Collect Elements
+#1518. Water Bottles              
