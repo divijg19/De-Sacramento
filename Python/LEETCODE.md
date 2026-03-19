@@ -426,3 +426,6 @@ Backtracked-
 ### 16th Mar '26
 #2869. Minimum Operations to Collect Elements
 #1518. Water Bottles              
+
+### 19th Mar '26
+#2839. Check if Strings Can be Made Equal With Operations I
