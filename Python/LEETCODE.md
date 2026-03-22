@@ -429,3 +429,6 @@ Backtracked-
 
 ### 19th Mar '26
 #2839. Check if Strings Can be Made Equal With Operations I
+
+### 22nd Mar '26
+Travelling and hectic day- no time to code.
