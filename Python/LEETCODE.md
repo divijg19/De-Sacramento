@@ -432,3 +432,7 @@ Backtracked-
 
 ### 22nd Mar '26
 Travelling and hectic day- no time to code.
+
+### 24th Mar '26
+#2729. Check if The Number is Fascinating
+#541. Reverse String II
