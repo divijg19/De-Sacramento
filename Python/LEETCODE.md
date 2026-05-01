@@ -439,3 +439,6 @@ Travelling and hectic day- no time to code.
 
 ### 21st Apr '26
 Stepping back from Leetcode temporarily to reorient my focus towards productive systems output. Will resume once more satisfied with projects shipped.
+
+### 1st May '26
+travelling
