@@ -12,3 +12,7 @@ edit- returned home before dinner and was able to work on Peony TUI v0.6 and Syl
 
 ### 26th June '26
 ran errands for family
+
+
+### 31st Oct '26
+family event, errands, festive shopping, travel tiredness
